@@ -5,11 +5,11 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/logosquare.png"
   # author will appear under the avatar (optional)
-  author: "UGIS GROUP"
+  author: "Urban and Geographic Information Systems Group"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "A <a href='https://illinois.collegiatelink.net/organization/ugis'>registered student organization</a> at the University of Illinois at Urbana Champaign"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
